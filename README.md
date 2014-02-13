@@ -1,3 +1,14 @@
+Todos
+=====
+
+*  Add Nyan-cat reporter. its a absolutely necessary.
+
+*  integrate with karma + karma mocha OR write a karma module that allows the passing of parameters directly to mocha.
+
+*. abstract js-hint integration to accept configurable lint options.
+
+*. add a code-flow diagram that shows how scripts run. this will help extension builders create extensions by knowing the algorithm by which simplebuild operates.
+
 Simplebuild - Universal Task Automation for Node.js
 ====================
 
